@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0162/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0162_WYG_000-1a, image: WYG1132/WYG1132-0001a.png}
+body:
+  text: 苕溪集别集類三宋提要臣等謹案苕溪集五十五巻宋劉一止撰一止字行簡湖州歸安人宣和三年進士紹興初召試除秘書省校書郎厯給事中以敷文閣直學士致仕事蹟具宋史本傳按陳振孫書録觧題稱一止居𤨏闥僅百餘日忤秦檜罷去閒居十餘年後檜死復召仍力辭不起年八十二乃終盖亦守正不阿之士其殁也韓元吉為作行状稱其文章推本經術出入韓栁不效世俗纎巧刻琢雖淹迤宏博而闗鍵嚴備其為詩寓意髙遠自成一家吕本中陳與義讀之曰語不自人間來也是其著作亦盛為當代所推矣行狀及宋史本傳皆稱非有齋類稿五十巻書録觧題亦同此本前有曝書亭印記盖朱彛尊家舊鈔題曰苕溪集不知何人所改又詩文共五十三巻末附行状一巻誥詞一巻凡五十五卷數亦非其舊或後人掇拾遺篇増附其後因而更名歟乾隆四十四年九月㳟校上總纂官臣紀昀臣陸鍚熊臣孫士毅總校官臣陸費墀
+  hash: sha256:913375046eb679f2a37be7d1b75c86ef0c656edff6566b7af65de233ed2eff42
+metadata:
+  title: 苕溪集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:56:59.290319'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0162/KR4d0162_000.txt
+hash: sha256:8aa9dce5bccc29b14ddc00e37e81bae584d5ba932adbb9a15f80cc4211198011
