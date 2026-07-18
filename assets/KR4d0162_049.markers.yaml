@@ -157,6 +157,7 @@ markers:
       ', id: KR4d0162_krp_049-bkkkrnewl31}
   - {type: line-break, offset: 477, content: '', id: KR4d0162_WYG_049-2b05}
   - {type: punctuation, offset: 491, content: (, id: KR4d0162_krp_049-bkkpn1}
+  - {type: voice, offset: 491, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 492, content: /, id: KR4d0162_krp_049-bkkpn2}
   - {type: punctuation, offset: 492, content: ), id: KR4d0162_krp_049-bkkpn3}
   - {type: indent, offset: 492, content: 　　　　　, id: KR4d0162_krp_049-bkkind12}
@@ -782,6 +783,7 @@ markers:
       ', id: KR4d0162_krp_049-bkkkrnewl156}
   - {type: line-break, offset: 2564, content: '', id: KR4d0162_WYG_049-9b04}
   - {type: punctuation, offset: 2572, content: (, id: KR4d0162_krp_049-bkkpn4}
+  - {type: voice, offset: 2572, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2573, content: /, id: KR4d0162_krp_049-bkkpn5}
   - {type: punctuation, offset: 2573, content: ), id: KR4d0162_krp_049-bkkpn6}
   - {type: substitution, offset: 2578, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
@@ -1211,6 +1213,7 @@ markers:
   - {type: indent, offset: 4158, content: 　　, id: KR4d0162_krp_049-bkkind85}
   - {type: indent, offset: 4162, content: 　　, id: KR4d0162_krp_049-bkkind86}
   - {type: punctuation, offset: 4162, content: (, id: KR4d0162_krp_049-bkkpn7}
+  - {type: voice, offset: 4162, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4163, content: /, id: KR4d0162_krp_049-bkkpn8}
   - {type: punctuation, offset: 4163, content: ), id: KR4d0162_krp_049-bkkpn9}
   - {type: indent, offset: 4163, content: 　　　　　, id: KR4d0162_krp_049-bkkind87}
@@ -1998,4 +2001,4 @@ markers:
 
       ', id: KR4d0162_krp_049-bkkkrnewl413}
   back: []
-hash: sha256:bce9f6788826d0d07e5acf91dfa64e05c6d897d1d4d5286f57d8c331a85f7103
+hash: sha256:710b36832d7516c0513e61675dd6b83019c0dfe4afc702919b79f0acde7f6097
